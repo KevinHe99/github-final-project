@@ -10,4 +10,4 @@ Output
    simple interest = p*t*r
 
 # Footer
-2023 XYZ, Inc.
+2022 XYZ, Inc.
